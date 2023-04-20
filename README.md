@@ -5,7 +5,7 @@
 2. [The anatomy of the microservice]()
 3. [Do more with Dapr]()
 4. [An event driven microservice with ChatGPT and GitHub!](04-wasm-chatgpt-github.md)
-5. Further reading: [Deploy Wasm containters with Kubernetes](https://wasmedge.org/book/en/use_cases/kubernetes.html)
+5. Further reading: [Deploy Wasm containers with Kubernetes](https://wasmedge.org/book/en/use_cases/kubernetes.html)
 6. Further reading: [Docker + Wasm](https://docs.docker.com/desktop/wasm/#running-a-multi-service-application-with-wasm)
 
 ## Get connected
