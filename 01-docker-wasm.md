@@ -7,7 +7,7 @@
 
 ## Configure your environment
 
-All you need to do is download the [Docker Desktop](https://docs.docker.com/desktop/install/). The version of Docker Desktop shpuld be at least 4.5.
+You only need to download the [Docker Desktop](https://docs.docker.com/desktop/install/). The version of Docker Desktop should be at least 4.5.
 
 ## Get the source code
 
@@ -17,7 +17,7 @@ Git clone the [second-state/microservice-rust-mysql](https://github.com/second-s
 git clone https://github.com/second-state/microservice-rust-mysql.git
 ```
 
-This is a database-driven web application with one WasmEdge "container" for the entire web service (microservice), and two Linux containers for supporting services — one for the MySQL database and one for NGINX to server the static HTML page for the frontend UI. The entire microservice application source code is here.
+This is a database-driven web application with one WasmEdge "container" for the entire web service (microservice), and two Linux containers for supporting services — one for the MySQL database and one for the NGINX  to serve the static HTML page for the frontend UI. The entire microservice application source code is here.
 
 https://github.com/second-state/microservice-rust-mysql/blob/main/src/main.rs
 
@@ -27,13 +27,13 @@ https://github.com/second-state/microservice-rust-mysql/blob/main/src/main.rs
 
 ## Build, share, and run this application
 
-Nagivate to the cloned microservice-rust-mysql project.
+Open the cloned microservice-rust-mysql project on your terminal.
 
 ````
 cd microservice-rust-mysql
 ````
 
-Then, use docker compose to build, share, and run the applictaion
+Then, use docker compose to build, share, and run the application
 
 ```
 docker compose up
