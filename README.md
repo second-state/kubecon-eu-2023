@@ -1,5 +1,9 @@
 # Tutorial: Create and Deploy a Lightweight Microservice in WebAssembly 
 
+## Slides
+
+[Slide for the tutorial](https://docs.google.com/presentation/d/1pw1Kv1ZkpNI-iurWnrsm6q_2dgcJy8ib/edit?usp=sharing&ouid=115184414288994816992&rtpof=true&sd=true)
+
 ## Tutorials
 1. [Create a complete 3-tiered microservice with Docker+Wasm](01-docker-wasm.md)
 2. [The anatomy of the microservice](02-anatomy-wasm.md)
