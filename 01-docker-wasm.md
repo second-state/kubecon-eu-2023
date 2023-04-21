@@ -7,7 +7,7 @@
 
 ## Configure your environment
 
-You only need to download the [Docker Desktop](https://docs.docker.com/desktop/install/). The version of Docker Desktop should be at least 4.5.
+You only need to download the [Docker Desktop](https://docs.docker.com/desktop/install/). The version of Docker Desktop should be at least 4.15.
 
 ## Get the source code
 
